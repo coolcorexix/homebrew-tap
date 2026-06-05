@@ -1,8 +1,8 @@
 class ClaudeGrep < Formula
-  desc "Search your Claude Code conversation history by content"
+  desc "Search Claude Code, OpenCode, and Hermes conversation history"
   homepage "https://github.com/coolcorexix/claude-grep"
-  url "https://github.com/coolcorexix/claude-grep/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "5d33b789f6bb66ae14e8ada6e1572d0eb1554a294e55a0d236cfb9e6f946db9e"
+  url "https://github.com/coolcorexix/claude-grep/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "7d788b81c5155cfcdb5884fcfecaa4e174a77c0198982773d3b80cd4f8401e2d"
   license "MIT"
 
   depends_on "fzf"
